@@ -1,0 +1,36 @@
+header div{
+    background-color: #EEDD82;
+    text-align: center;
+    border-radius: 3px;
+    margin-bot: 0px;
+    margin-top: 0px;
+    font-size: 70px;
+    font-family: "Baskerville Old Face";
+    height: 80px;
+}
+header hr {
+    height: 10px;
+    border-radius: 3px;
+    background-color: #A0522D;
+}
+
+section{
+    position: relative;
+}
+
+a {
+    color: black;
+}
+
+section img.logo{
+    background-image: inherit;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    height: auto;
+    opacity: 0.4;
+}
+
+

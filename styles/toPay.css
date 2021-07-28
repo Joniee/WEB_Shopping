@@ -1,0 +1,22 @@
+.toPay-flex-container {
+    display: flex;
+    flex-direction: column;
+}
+.toPay-flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.user-facturacio-title{
+    font-size: 18px;
+}
+.user-facturació-content{
+
+}
+
+.toPay-title{
+    border-style: solid;
+    border-width: 1px;
+    font-size: 30px;
+}

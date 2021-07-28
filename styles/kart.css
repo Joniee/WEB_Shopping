@@ -1,0 +1,57 @@
+
+.kart-flex-container {
+    display: flex;
+    flex-direction: row;
+}
+.kart-flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.kart-flex-container-content-product {
+    display: flex;
+    flex-direction: column;
+}
+.kart-flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+
+.button-submit {
+    background: #EEDD92;
+    color: #A0522D;
+    border: none;
+    font-size: 27px;
+}
+
+.button-submit-add-less {
+    background: #EEDD92;
+    color: #A0522D;
+    border: none;
+    font-size: 27px;
+    height: 35px;
+    width: 35px;
+}
+
+.preu-total{
+    font-size: 30px !important;
+    border-style: solid;
+    border-radius: 4px;
+    border-color: #A0522D;
+}
+
+.cabas-title{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 25px;
+    font-style: initial;
+    font-variant: small-caps;
+}
+
+.info-cabas {
+    font-size: 16px;
+    font-style: italic;
+}

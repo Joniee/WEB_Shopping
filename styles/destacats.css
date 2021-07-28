@@ -1,0 +1,27 @@
+.destacats-content-img{
+    height: 500px;
+    max-height: 500px;
+}
+
+.destacats-title{
+    text-align: center;
+    font-size: 30px !important;
+    text-decoration: underline;
+}
+
+.destacats-flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.destacats-flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.destacats-content-name {
+    text-align: center;
+    border-bottom-style: solid;
+    font-size: 22px;
+}
