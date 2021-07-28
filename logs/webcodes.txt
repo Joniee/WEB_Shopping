@@ -1,0 +1,131 @@
+100 - BD - mBD - ErrorCreating Connection
+300 - Controller
+301 - Admin
+303 - Category
+304 - Category
+305 - Destacats
+306 - FindProduct
+307 - History
+308 - Init
+309 - Kart
+310 - Kart
+311 - Kart
+312 - Kart
+313 - Kart
+314 - Kart
+315 - Layout
+316 - Navigator
+317 - Product
+318 - Product
+319 - Productes
+320 - Productes
+321 - Search
+322 - SignUp
+323 - ToPay
+324 -ToPay
+325 - User
+326 - UserAjax
+327 - UserAjax
+328 - UserAjax
+329 - UserAjax
+330 - UserData
+331 - UserData
+332 - UserData
+400 - Resources
+401 - addStyleScript
+402 - addToKart
+403 - checkKart
+404 - deleteAllKart
+405 - deleteFromKart
+406 - downloadKart
+407 - login
+408 - logout
+409 - newProduct
+410 - processKart
+411 - router
+412 - search
+413 - signUp
+414 - updateUser
+415 - upFileKart
+416 - upFileUser
+417 - uploadKart
+500 - Creating Class Constructor
+	501 - mUser - Constructor
+502 - mCategory
+503 - mDestacats
+504 -  mKart
+505 - mProduct
+506 - mProductes
+507 - mSearch
+508 - mUser
+509 - AdminController
+511 - CategoryController
+512 - DestacatsController
+513 - FindProductController
+514 - HistoryController
+515 - InitController
+516 - KartController
+517 - LayoutController
+518 - NavigatorController
+519 - NewProductController
+520 - ProductController
+521 - ProductesController
+522 - SearchController
+523 - SignUpController
+524 - ToPayController
+525 - UserController
+526 - UserControllerAjax
+527 - UserDataController
+600 - SQL
+	601 - mUser - find_noCoincidences()
+	602 - mUser - createUser()
+	603 - mUser - findUser()
+	604 - mUser - getId()
+	605 - mUser - updateUser()
+	606 - mUser - listUsers()
+607 - mBD - get_conection()
+608 - mCategory - getAll()
+609 - mCategory - get_AllElements()
+610 - mCategory - get_AnElement()
+611 - mKart - get_All()
+612 - mKart - getKartInfo()
+613 - mKart - setKart()
+614 - mKart - getNotPaidKart()
+615 - mKart - getKartOnLogin()
+616 - mKart - setPaidKart()
+617 - mKart - listKarts()
+618 - mProduct - get_All()
+619 - mProduct - get_AnElement()
+620 - mProduct - setNewProduct()
+621 - mProductes - get_AllElements()
+622 - mProductes - listProducts()
+623 - mSearch - cleanInput()
+624 - mSearch - getAllElements()
+625 - mDestacats - get_All()
+626 - mDestacats - get_AllElements()
+
+700 - INDEX
+701 - session()
+702 - switch()
+800 - Load Vistes
+801 - admin
+802 - admin0
+803 - admin1
+804 - admin2
+805 - admin3
+806 - admin4
+807 - categoria
+808 - destacats
+809 - history
+810 - init
+811 - kart
+812 - layout
+813 - login
+814 - navigator
+815 - producte
+816 - productes
+817 - search
+818 - searchResult
+819 - signUp
+820 - toPay
+900 - function
